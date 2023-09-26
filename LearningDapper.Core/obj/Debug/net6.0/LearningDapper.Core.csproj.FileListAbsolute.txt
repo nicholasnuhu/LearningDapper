@@ -1,0 +1,12 @@
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\bin\Debug\net6.0\LearningDapper.Core.deps.json
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\bin\Debug\net6.0\LearningDapper.Core.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\bin\Debug\net6.0\LearningDapper.Core.pdb
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\LearningDapper.Core.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\LearningDapper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\LearningDapper.Core.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\LearningDapper.Core.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\LearningDapper.Core.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\LearningDapper.Core.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\refint\LearningDapper.Core.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\LearningDapper.Core.pdb
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Core\obj\Debug\net6.0\ref\LearningDapper.Core.dll

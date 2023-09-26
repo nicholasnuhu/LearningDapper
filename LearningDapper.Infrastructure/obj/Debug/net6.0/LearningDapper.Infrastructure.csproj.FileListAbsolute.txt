@@ -1,0 +1,15 @@
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\bin\Debug\net6.0\LearningDapper.Infrastructure.deps.json
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\bin\Debug\net6.0\LearningDapper.Infrastructure.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\bin\Debug\net6.0\LearningDapper.Infrastructure.pdb
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\bin\Debug\net6.0\LearningDapper.Core.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\bin\Debug\net6.0\LearningDapper.Core.pdb
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.csproj.CopyComplete
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\refint\LearningDapper.Infrastructure.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\LearningDapper.Infrastructure.pdb
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapper.Infrastructure\obj\Debug\net6.0\ref\LearningDapper.Infrastructure.dll

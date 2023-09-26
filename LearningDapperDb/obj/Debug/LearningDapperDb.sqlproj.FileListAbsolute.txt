@@ -1,0 +1,6 @@
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapperDb\bin\Debug\LearningDapperDb.dacpac
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapperDb\bin\Debug\LearningDapperDb.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapperDb\bin\Debug\LearningDapperDb.pdb
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapperDb\obj\Debug\LearningDapperDb.sqlproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapperDb\obj\Debug\LearningDapperDb.dll
+C:\Users\solan\OneDrive\Desktop\LEARNING DATABASE\LearningDapper\LearningDapperDb\obj\Debug\LearningDapperDb.pdb
